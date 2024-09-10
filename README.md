@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Sotware engineering 
 - 💞️ I’m looking to collaborate on real-life projects 
 - 📫 How to reach me: ceogachone@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mr-He
+- ⚡ Fun fact: No "bug" is heavy for a developer
 
 <!---
 gachonejohn/gachonejohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
