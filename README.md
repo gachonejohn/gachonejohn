@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Thuku,
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Sotware engineering 
-- 💞️ I’m looking to collaborate on real-life projects 
+- 🌱 I’m currently learning Django web development at eMobilis mobile technology. 
+- 💞️ I’m willing to help people achieve their goals 
 - 📫 How to reach me: ceogachone@gmail.com
 - 😄 Pronouns: Mr-He
 - ⚡ Fun fact: No "bug" is heavy for a developer
