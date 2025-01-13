@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Thuku,
 - 👀 I’m interested in solving problems
-- 🌱 I’m currently learning Django web development at eMobilis mobile technology. 
+- 🌱 I have completed Django web development at eMobilis mobile technology. 
 - 💞️ I’m willing to help people achieve their goals 
 - 📫 How to reach me: ceogachone@gmail.com
 - 😄 Pronouns: Mr-He
